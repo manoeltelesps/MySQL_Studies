@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos temporários e obsoletos
+*~
+*.bak
+*.old
+*.tmp
+*.swp
