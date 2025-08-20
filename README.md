@@ -1,5 +1,5 @@
-# iOS Data Persistence 📱
-Este repositório contém projetos e exemplos focados em persistência de dados e integração com APIs no desenvolvimento iOS. Inclui implementações com Core Data, UserDefaults, URLSession e outras tecnologias para gerenciamento de dados.
+# Database Projects 🗄️
+Este repositório contém estudos e projetos relacionados a bancos de dados. Inclui scripts SQL, exercícios de modelagem de dados e projetos práticos com MySQL e outras tecnologias de banco de dados.
 
 -----
 ### Autor
