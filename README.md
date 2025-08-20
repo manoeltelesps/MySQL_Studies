@@ -7,4 +7,4 @@ Este repositório é dedicado aos meus estudos e projetos em MySQL, servindo com
 ### Autor
 
   * **Manoel Teles**
-  * **GitHub:** [manoeltelesps](https://www.google.com/search?q=https://github.com/manoeltelesps)
+  * **LinkedIn:** [Manoel Pedro](https://www.linkedin.com/in/manoeltelesps)
