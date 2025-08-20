@@ -1,10 +1,23 @@
-# Estudos de MySQL
+# 🗄️ Database Projects
 
-Este repositório é dedicado aos meus estudos e projetos em MySQL, servindo como um registro do meu progresso e aprendizado na linguagem de banco de dados.
+> Estudos e projetos com bancos de dados
 
------
+## 📖 Sobre
 
-### Autor
+Repositório com exercícios e projetos relacionados a bancos de dados.
 
-  * **Manoel Teles**
-  * **LinkedIn:** [Manoel Pedro](https://www.linkedin.com/in/manoeltelesps)
+## 🚀 Tecnologias
+
+- MySQL
+- SQL
+- Workbench
+
+## 📁 Conteúdo
+
+- Scripts SQL
+- Modelagem de dados
+- Exercícios práticos
+
+---
+**Desenvolvido por [Manoel Pedro](https://www.linkedin.com/in/manoeltelesps)**
+
